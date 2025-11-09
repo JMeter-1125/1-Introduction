@@ -1,0 +1,11 @@
+Dalam bab ini dibahas pengenalan Performance Testing dengan JMeter, memberikan gambaran menyeluruh tentang pengujian performa dan rekayasa. Dimulai dengan dasar-dasar pengujian performa, menekankan pentingnya untuk memastikan aplikasi berjalan lancar dan dapat diandalkan.
+Adapaun beberapa point yang akan dipelajari adalah sebagai berikut :
+1. Dasar-dasar Pengujian Performa: Menekankan pentingnya dalam memastikan aplikasi berfungsi dengan baik dan dapat diandalkan.
+2. Pengenalan JMeter: Memperkenalkan JMeter sebagai alat utama untuk mengukur performa sistem dan mensimulasikan lalu lintas pengguna.
+3. Proyek Pengujian Komprehensif: Peserta akan terlibat dalam proyek pengujian performa dari perencanaan hingga eksekusi.
+4. Integrasi dengan Pipeline CI: Mencakup integrasi pengujian performa dalam proses CI menggunakan alat seperti Git, GitHub, dan Jenkins.
+5. Konsep Lanjutan: Membahas pemodelan beban, analisis bottleneck, dan tuning performa dengan fitur-fitur canggih JMeter.
+6. Desain Pengujian yang Efisien: Fokus pada menciptakan pengujian yang mereplikasi perilaku pengguna di dunia nyata, termasuk pengujian beban dan daya tahan.
+7. Pemantauan Sisi Server dan Klien: Diskusikan metrik pemantauan sisi server dan alat seperti Google Lighthouse untuk pengujian sisi klien.
+8. Pengujian API: Menjelaskan metode HTTP di JMeter dan desain pengujian praktis untuk API.
+9. Memperkuat Pembelajaran: Mencakup kuis, dokumen penting, dan sumber daya untuk referensi, serta persiapan wawancara.
